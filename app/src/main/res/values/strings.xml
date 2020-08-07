@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CetUp app</string>
+    <string name="text_username">Username</string>
+    <string name="text_signout">Sign Out</string>
+    <string name="cetup">CetUp</string>
+    <string name="welcome">Welcome to CetUp,</string>
+    <string name="word1">Sign in or Sign up to continue</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="word2">Terms and conditions</string>
+    <string name="line">line</string>
+    <string name="word3">Sign Up to continue</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="word4">Sign In to continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_chat_fragment">Chat Fragment</string>
+    <string name="text_message_username">Please write username</string>
+    <string name="text_message_email">please write email</string>
+    <string name="text_message_password">Please write password</string>
+    <string name="text_user">Users</string>
+    <string name="text_error_message">Erorr Message</string>
+</resources>
