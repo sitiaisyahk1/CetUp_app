@@ -22,4 +22,13 @@
     <string name="text_message_password">Please write password</string>
     <string name="text_user">Users</string>
     <string name="text_error_message">Erorr Message</string>
+    <string name="menu">menu</string>
+    <string name="text_menu">Menu</string>
+    <string name="image">image</string>
+    <string name="view_all">View All</string>
+    <string name="background">background</string>
+    <string name="result">9+</string>
+    <string name="name">Name</string>
+    <string name="time">2 min ago</string>
+    <string name="message">This is message from her or him</string>
 </resources>
